@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Laboratorio de Innovación e Investigación Docente built the FunCooking app as a Free app. This SERVICE is provided by Laboratorio de Innovación e Investigación Docente at no cost and is intended for use as is.
 
